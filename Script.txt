@@ -1,0 +1,618 @@
+
+
+
+
+ASHES OF CALCUTTA
+Act I — The Lockdown
+(Rajendra Deb Lane, Calcutta — August 1946)
+Scene 1 – The Sirens Begin
+Monsoon clouds hung low over College Street, turning the afternoon the colour of old ink. The gutters frothed with paper pulp from the flooded bookstalls; the air smelled of wet jute, kerosene, and overripe bananas from the cart outside. Inside Sarkar & Sons General Store, a ceiling fan turned with a nervous buzz above rows of Dalda tins and biscuit jars.
+Arunesh Chatterjee, thirty-eight, clerk and widower, counted the day’s takings while thinking of home — the narrow house on Rajendra Deb Lane, off Beadon Street, where his ten-year-old daughter Mitali waited with her blue ribbon and arithmetic notebook. He had promised to bring her lebu-biscuit and a new ink pen.
+The radio on the wall crackled.
+ “Akashvani Calcutta — Curfew from eight p.m. till dawn. Citizens are advised to remain indoors. Disturbances near Sealdah, Rajabazar, and Maniktala—”
+Static swallowed the voice, then the window rattled with a shout from outside. The smell of smoke seeped in. Somewhere down College Street a tram bell rang, then broke off mid-clang.
+“Lock the gate!” shouted the guard. The heavy shutter clanged down.
+Arunesh gripped the counter. “Open it! My meye is alone—Rajendra Deb Lane!”
+The guard hesitated; the noise outside swelled — screams in two languages, boots running, glass breaking. When Arunesh lunged for the latch, the guard’s lathi came down in blind panic. White light flared behind his eyes, and the world fell away.
+The last thing he saw was fire reflected in a puddle of rainwater.
+
+Scene 2 – The Back Room
+He woke to the slow drip of a leaking pipe. The single bulb flickered, casting a feverish yellow on sacks of rice split open across the floor. His head throbbed where the stick had landed; his fingers came away sticky with half-dried blood.
+Outside, someone shouted a slogan, then the crack of gunfire, then silence.
+He whispered, “Mitali… baba aschhe.”
+A rustle came from behind the crates — a moan, low and human.
+Choices
+Investigate the sound.
+Search the storeroom.
+Try the radio.
+
+If 1: Investigate
+Behind the rice sacks crouched a boy, no older than twenty, his arm blistered. When the light touched him, he raised a pocketknife.
+“Dada, thambo na! I’m not with them!”
+His accent carried the roughness of Kidderpore docks. He was shaking.
+Arunesh knelt. “You’re hurt.”
+The boy nodded, eyes glistening. “Fire… I ran when they came. Couldn’t tell who was who anymore.”
+Choice A: Help him — You tear a strip from your shirt, bind his wound. He exhales sharply and hands you a small brass key. “Back door. Go before they return.” (morality + 2)
+ Choice B: Take his knife — You slip it from his hand. He mutters, “Even you fear me.” (morality – 2, gain Rusty Knife)
+
+If 2: Search
+Shelves are overturned, tins dented. You find a half-tin of biscuits, a bottle of cloudy water, and a photograph — three smiling faces behind a counter. The father in a spotless dhoti. You set it back gently.
+A trail of blood leads toward the rear alley door.
+
+If 3: Radio
+The set coughs static, then clears for a moment.
+ “Violence spreads toward Beadon Street and Rajendra Deb Lane. Citizens advised—”
+The voice breaks apart. Arunesh’s knees weaken. “Mitali… shona…”
+The bulb flickers twice, then dies.
+
+Scene 3 – The Shutter
+The metal shutter burns hot to the touch. Outside, boots splash through water; someone cries out, then runs.
+Choices
+ • Use the brass key → quiet escape.
+ • Force the shutter → lose health, make noise.
+ • Search for another exit → lose time.
+If the key fits, it turns with a clean click.
+ If you force it, the hinge screams and torchlight flares down the lane.
+ If you search, you squeeze through a broken window vent, scraping your shoulder on rust.
+
+Scene 4 – College Street Burning
+Rain begins again, thin and relentless. Pages from the bookstalls float in the drain — torn Gitanjali, school registers, detective magazines. A tram lies on its side near the Presidency College gate, wheels humming softly. The sky glows orange behind the University Senate House dome; smoke curls above Hedua Park.
+From the crossroads comes a woman’s cry.
+ “Dada! Help koro!”
+She’s pinned beneath a fruit cart, fire licking its edges. Beyond her lies Beadon Street, your way home.
+Choices
+ • Help her — You shove the cart aside, skin blistering. She gasps, “Don’t take Amherst Street—too many dead there. Go by Beadon Road.” (morality + 1, unlock Safe Route)
+ • Leave her — You turn away; the crackle of flame drowns her voice. (morality – 1, reach home faster)
+
+Scene 5 – Rajendra Deb Lane
+The closer you get to home, the quieter the city grows. Houses stand like burnt shells; the sweet-shop at the corner, Bharat Misty Bhandar, lies gutted, syrup jars cracked open. Rain mixes with ash, carrying away bits of glass, bangles, the smell of ghee and smoke.
+You turn into your lane. The streetlights are dead; only hurricane lamps flicker in the ruins. Each step sinks into mud and soot.
+“Mitali… baba aschhe,” you whisper.
+No answer. Only the slow toll of the temple bell from Hedua Park.
+At your fence, something blue catches the light — a ribbon, frayed, blackened at the tips. You pick it up with trembling fingers. Rain runs down your face, indistinguishable from tears.
+“Thakur Gopal… raksha koro,” you murmur. “Let her be safe.”
+Behind you, Calcutta moans — a thousand voices, one grief.
+ You square your shoulders and step toward the smouldering doorway of your home.
+
+End of Act I — The Lockdown
+ (To be continued in Act II — The Crossing)
+
+
+
+
+ASHES OF CALCUTTA — ACT II: THE CROSSING
+Scene 1 — Beadon Street Crossroads
+Setting:
+ Rain soaks the cracked tramlines. The smell of burnt cloth and incense hangs thick. The sound of chanting drifts from the south — slogans, gunfire, screams.
+A police jeep lies overturned. A constable slumps beside it, his khaki shirt dark with blood.
+He raises a trembling hand.
+“Help… the radio… please…”
+You glance north — a group of families hurrying toward Bagbazar Ghat.
+ But the constable’s eyes plead.
+Choices:
+Help the constable.
+Ignore him and move on.
+
+If CHOICE 1 — Help the Constable
+You kneel, lifting him gently. His breath rattles.
+ The radio crackles beside him — voices shouting for reinforcements.
+ You press the button; static.
+“They’ve cut the line,” the constable groans.
+ “Evacuation… through Bagbazar Ghat. Go… if you still have someone…”
+He grips your wrist weakly, smearing blood on your sleeve. Then goes still.
+You take his police whistle — it might help you warn or signal later.
+ Morality +1
+ Gain item: Whistle
+Continue to Scene 2.
+
+If CHOICE 2 — Ignore the Constable
+You turn away. The man’s voice fades behind you, lost beneath thunder.
+ The guilt follows you like another shadow.
+Morality –1
+ No item gained.
+Continue to Scene 2.
+
+Scene 2 — Hedua Park Camp
+The park has turned into a refugee camp — makeshift tents, ration barrels, and frightened whispers.
+ The statue of Prafulla Chandra Ray looms over the crowd, its marble streaked with rain.
+A young nurse calls out:
+“If you’re looking for family, write the name! We’ll try the registers!”
+You scrawl ‘Mitali Chatterjee’ on a damp sheet.
+ She flips through smudged pages.
+“A few children came this morning from Rajendra Deb Lane… they were sent toward Bagbazar Ghat. That’s your best chance.”
+She offers you a tin cup of water and a bandage.
+Choices:
+Thank her and leave immediately. (morality +0)
+Stay to help treat the wounded. (morality +1, lose time)
+
+If CHOICE 1 — Leave Immediately
+You push through the rain, ignoring the cries behind you.
+ Your focus sharpens: the river. The only path left.
+Continue to Scene 3.
+
+If CHOICE 2 — Help the Wounded
+You spend a short while cleaning wounds, passing water to the injured.
+ The nurse smiles weakly.
+“There’s still good men left, even tonight.”
+She gives you a silver locket found in the pocket of a lost child.
+“Maybe it will bring you luck.”
+Morality +1
+ Gain item: Silver Locket
+ Lose time (may affect later choices)
+Continue to Scene 3.
+
+Scene 3 — Bagbazar Ghat
+The riverfront is chaos. The air smells of smoke, salt, and blood.
+ Boats sway against the tide as hundreds press forward — desperate to flee to the Howrah side.
+ A boatman sits on his haunches, his face hard to read.
+“Ten rupees, babu. Or something worth that much.”
+You check your pockets — nothing but lint.
+Choices:
+Offer the silver locket (if you have it).
+Threaten him with your rusty knife (if you have it).
+Beg for passage.
+If he refuses → take ground route through Sovabazar.
+
+If CHOICE 1 — Offer the Silver Locket
+You hold out the locket. The boatman hesitates.
+“This belonged to your child?”
+ You nod once.
+He takes it gently.
+“Keep your seat, babu. We’ll cross before dawn.”
+Morality +1
+ Guaranteed river crossing (Scene 4A).
+
+If CHOICE 2 — Threaten with the Knife
+You draw the knife from your belt. The crowd gasps.
+“You’ll row us across,” you snarl, “or we both sink.”
+The boatman’s eyes widen; he nods slowly.
+“As you wish, babu.”
+You force him to row. The oar cuts the oily water.
+Morality –2
+ Guaranteed river crossing (Scene 4A).
+
+If CHOICE 3 — Beg for Passage
+You clasp your hands.
+“I have nothing left. Please. My daughter—she’s across.”
+He looks away.
+ 50% chance he accepts or refuses (you can randomize this in code).
+If he accepts → Scene 4A (River Crossing).
+ If he refuses → Scene 4B (Ground Route).
+
+If CHOICE 4 or REFUSED — Ground Route via Sovabazar
+The boatman spits into the river.
+“Too many dead tonight, babu. The oars won’t move through blood.”
+ He pushes off and disappears into mist.
+You turn north through Sovabazar Lane.
+Continue to Scene 5B.
+
+Scene 4A — The River Crossing
+The oar dips in rhythm.
+ Bagbazar fades into shadow, replaced by the glow of burning warehouses along Strand Road.
+A woman sobs beside you, holding a bundle that doesn’t move.
+ The boatman mutters prayers to Ganga Maa.
+Midstream, gunfire cracks from the shore. A bullet slaps the water near the boat.
+ Everyone ducks.
+Choices:
+Shield the woman with your body. (morality +1, lose health)
+Stay low and let fate decide. (morality +0)
+If you protect her: a bullet grazes your arm. She whispers, “Bless you, dada,” and clutches your shoulder.
+The boat drifts under the burning sky.
+ When the fires fade, you see the shadow of the Howrah Bridge — steel ribs over the river like a beast’s skeleton.
+If morality ≥ 2:
+ A child’s voice calls from the opposite ghat:
+“Baba! Baba!”
+ Mitali runs to you as you stagger ashore.
+If morality < 2:
+ You arrive alone. The refugees scatter into the mist.
+ A child’s sandal — her sandal — lies in the mud.
+End of Act II.
+
+Scene 5B — The Ground Route (Alternate Path)
+You weave through Sovabazar’s narrow lanes.
+ Rain drips from verandas onto your hair.
+ Shuttered mansions lean over, the smell of decay and burnt paint everywhere.
+A faint cry:
+“Dada! Here!”
+An old man lies trapped beneath a fallen balcony beam.
+Choices:
+Help the old man. (morality +1, gain “Directions to Nimtala”)
+Ignore and move on. (morality –1, save time)
+If you help him:
+ He grips your hand weakly.
+“Go by Nimtala Ghat… they say children crossed from Ahiritola. When you smell the salt, you’re near.”
+He dies before finishing.
+ Gain item: “Directions to Nimtala.”
+
+You follow the alleys past Ahiritola Street, where half-burnt Durga idols stand in flooded courtyards.
+ Drums lie shattered. A dog drags a garland through the gutter.
+Finally, the smell of salt and smoke — Nimtala Ghat.
+Bodies wrapped in white float against the steps, waiting for the fire that never comes.
+ A priest, half-drunk on grief, pours kerosene into the water.
+An empty ferry is moored nearby, swaying.
+Choices:
+Take the ferry yourself. (morality –1, dangerous crossing, lose health)
+Wait and join a group of refugees. (morality +1, safer, slower)
+If solo:
+ The tide pulls you south. You cling to the oar, coughing, until the orange dawn spreads over Howrah Bridge.
+ You collapse on the far bank, shaking, bleeding — alive.
+If with refugees:
+ The group rows together, chanting “Ma Ganga raksha koro.”
+ Hands reach to pull you in when the boat threatens to tip.
+ The current slows near Howrah. The smoke thins.
+If morality ≥ 2:
+ Among the crowd, a girl’s voice calls your name — Mitali.
+ You embrace her, trembling, whispering, “Baba asche, shona.”
+If morality < 2:
+ The refugees scatter. You reach the shore alone.
+ A blue ribbon floats by your feet — her ribbon, faded to grey.
+
+End of Act II — The Crossing
+
+Summary of Variables to Track:
+Variable
+Description
+morality
+Compassion level (– to +); affects Act III outcome
+has_knife
+Whether Arunesh has the rusty knife (Act I carryover)
+has_locket
+Gained at Hedua Camp
+has_whistle
+Gained from helping constable
+route
+"river" or "ground" depending on crossing choice
+health
+Affected by combat or self-sacrifice actions
+found_mitali
+True if morality ≥ 2 and successful crossing
+
+a
+ASHES OF CALCUTTA
+Act III — The Road to Tikiapara
+(Howrah Side, Pre-dawn — August 1946)
+The first light of dawn is pale and cold, like milk spilled over ash.
+ Howrah lies broken — a carcass of wood and smoke.
+ The rain has ceased, but the air still drips; gutters hiss; the Hooghly stinks of burnt oil.
+Arunesh Chatterjee moves through the mist with slow, cautious steps.
+ His dhoti is torn to the knee, his breath shallow. The blue ribbon in his pocket — Mitali’s ribbon — feels heavier than iron.
+ Each sound — a distant scream, a cartwheel rolling, the bark of a stray — twists his heart with the fear that she is lost forever.
+He passes rows of gutted tramcars, their metal frames still warm.
+ A hoarding for Bengal Chemicals curls in the heat, the painted face of a smiling nurse blackened by soot.
+A low, trembling whimper breaks through the silence.
+
+Scene 1 — The Dog
+Under an overturned handcart, a small mongrel lies trapped — one leg bent unnaturally, eyes wide with terror.
+ Flies buzz around the wound; it licks at them weakly, whining.
+Arunesh crouches, voice hoarse.
+ “Shob thik hobe, baba… hold on.”
+He hesitates — his arm still bleeding, his mind torn between compassion and survival.
+Choice Logic:
+If he helped the Dog (Act III choice):
+ He tears a strip from his kurta, binds the leg, and lifts the cart with both hands, teeth gritted. The dog limps free, circles once, and presses its muzzle to his knee.
+ From this moment, the creature — Buro — follows him faithfully, shadowing his every step.
+ (Companion: Dog ‘Buro’; Morality +2)
+
+If he left it:
+ He turns away. The whimper follows him down the street until it fades behind the rain.
+ (Morality –1; no companion.)
+
+
+Scene 2 — Pilkhana Road
+The road winds past what once were stables.
+ Now, the huts stand roofless, mud walls dripping.
+ Slogans are scrawled in coal across brick — some political, some curses.
+ A group of men, faces soot-darkened, guard a barricade of broken planks and sacks of rice.
+“Stop! Who goes there?”
+Their eyes are bloodshot with exhaustion, fear, and something harder.
+ Arunesh raises his palms. “A father. I seek my daughter. I want no trouble.”
+The leader steps forward, gripping an iron rod.
+ “Everyone says that. Which side are you?”
+The question that kills.
+Choice Logic:
+If he speaks calmly:
+ He lowers his eyes. “Tonight there are no sides, only fathers.”
+ The leader studies him, then gestures him through.
+ (Morality +1.)
+
+If he fought previously in Act II or chooses to fight now:
+ He grips the rusty knife; chaos erupts.
+ When it’s done, two men lie groaning, and Arunesh stumbles on, blood dripping from his hand.
+ (Health –2; Morality –2.)
+
+If he sneaks through:
+ Smoke and rain cloak him; he moves like a shadow.
+ If Buro is with him, the dog growls softly, warning him of footsteps — and they slip safely past.
+ If he is alone, a thrown brick grazes his shoulder.
+ (Health –1 if alone.)
+
+
+Scene 3 — The Trainyard
+The Howrah goods yard looms like a graveyard of iron.
+ Carriages lie on their sides, wheels still turning idly in the wind.
+ He moves between them, shoes sinking in cinders.
+A rustle — a boy, maybe twelve, bursts from a half-flooded freight car clutching a tin biscuit box.
+ When he sees Arunesh, he freezes.
+ “Don’t tell them, dada! They’ll beat me!”
+Arunesh stares. The boy’s face is streaked with soot; his eyes, bright and desperate.
+ “I only want to eat,” the child whispers. “They said the camp has food. Tikiapara, near the mill.”
+Then, softer:
+ “I saw a little girl cross the bridge last night. Blue ribbon. She was crying.”
+The words strike like a hammer.
+ “Mitali…” Arunesh breathes.
+The boy backs away, vanishing into the smoke.
+
+Scene 4 — Tikiapara Camp
+By late afternoon the rain returns — a thin, steady drizzle that turns the camp into a swamp of mud and tarpaulin.
+ Hundreds crowd under makeshift shelters: mothers clutching pots, children shivering with fever, men staring blankly at the river.
+A caretaker with a ledger calls names. “Next! Family name?”
+Arunesh stumbles forward.
+ “Chatterjee. Rajendra Deb Lane. My daughter — Mitali — ten years old.”
+The caretaker flips through pages blurred with rain.
+ He frowns. “There was a girl, yes. She said she lived near Beadon Street. She left this morning — said her father would come for her.”
+Arunesh grips the table. “Left? Alone?”
+“She was brave, dada. Said she knew the way home.”
+The world tilts.
+ He sinks to his knees, the blue ribbon trembling in his fist.
+If Buro is with him, the dog presses close, warm against his side.
+ If not, he shivers alone, the emptiness louder than the thunder.
+“Shona,” he whispers. “You went back… you wanted me to find you.”
+He looks toward the smoke rising from Calcutta’s skyline.
+ Beyond that haze — his street, his home, his child.
+He rises slowly, the sound of rain drumming on tin roofs.
+ “Come, Buro,” he says softly if the dog is there.
+ If not, he mutters to himself: “Come on, Arunesh. You’re not done yet.”
+End of Act III — The Road to Tikiapara
+
+ASHES OF CALCUTTA
+Act IV — The Return
+(Howrah to Calcutta — August 1946 Evening)
+The storm breaks again.
+ From the embankment, the river stretches dark and wide, reflecting the orange tongues of fire that lick at both banks.
+ The Howrah Bridge, newly built, looms ahead — its girders lost in smoke, its span blocked by soldiers and trucks.
+The wind carries screams across the water.
+ The city burns in twin halves — one on each shore — as if Bengal itself were split by flame.
+Arunesh stands at the river’s edge, rain washing soot from his face.
+ If the dog is with him, it whines softly.
+He must cross.
+
+Choice — The Crossing
+By the Bridge:
+ He joins a crowd moving beneath the iron lattice.
+ The steel trembles with footsteps, thunder, gunfire.
+ Halfway across, he sees the city below — roofs aflame, bodies drifting in the Hooghly.
+ He grips the railing as lightning forks through the sky.
+ “Hold on, Mitali,” he murmurs.
+ A shell bursts at the far end; people scatter.
+ He dives through smoke, running, coughing, until he collapses on the eastern bank — Burrabazar.
+ (Health –1.)
+
+By the River:
+ A boatman rows near the jetty.
+ “No crossings tonight,” he growls. “The water runs red.”
+ Arunesh offers what he has — if he kept the silver locket from Act II, he holds it up; otherwise, the last of his coins, or simply his empty palms.
+ The man studies him.
+ If he offers the locket: “That belonged to love,” the boatman murmurs. “It’ll carry you safe.”
+ If he offers nothing: “For a father,” the man sighs. “Sit.”
+ The oar dips. The river moves like thick ink beneath them.
+ From midstream, the burning warehouses of Strand Road paint the sky orange.
+ A body floats past — a woman clutching a rosary.
+ Arunesh whispers a prayer.
+ When they land at Mullick Ghat, dawn is rising pale over the temple towers.
+ The flower market lies in ruin — crushed marigolds, scattered incense, broken baskets leaking colour into the mud.
+ If Buro is with him, the dog growls, warning of looters hiding behind a cart; they melt away into the rain.
+
+
+Scene 2 — Strand Road to Burrabazar
+The streets here are silent but for the hiss of rain on embers.
+ Burnt jute sacks smoulder in front of the warehouses.
+ A tram lies overturned beside the ghats, its interior glowing faintly red.
+He walks quickly, the dog padding at his heel if present, past the dark outlines of Burrabazar’s shops — silk merchants, spice traders, sweet-sellers — all gutted and open to the sky.
+On Harrison Road, torn banners flutter from blackened balconies.
+ The air is thick with ghee, petrol, and blood.
+A man rushes from a doorway, knife in hand.
+ If Buro is with him, the dog snarls.
+ Arunesh steps back, heart hammering.
+“Stop!” he cries. “I have nothing! I seek my child!”
+ The man hesitates, sees the bloodied bandage, the exhaustion, and lowers his blade.
+ “Go, dada. Go before they come again.”
+Arunesh nods, trembling. “May you live to see your own.”
+He moves on through the wreckage of his city — each street more familiar, more haunted.
+
+Scene 3 — Rajendra Deb Lane
+By the time he turns into his lane, the rain has become a mist.
+ The sweetshop on the corner, Bharat Misty Bhandar, is gone — shelves collapsed, syrup jars cracked like eggshells.
+ Charred kites hang from telephone wires.
+ The air tastes of copper and salt.
+He stops before his house.
+ The door hangs open.
+ Inside, soot coats the walls, and the ceiling fan droops like a wilted flower.
+He steps carefully, whispering,
+ “Mitali? Baba aschhe…”
+A faint sound — the creak of a stair.
+ He freezes.
+Then:
+ “Baba?”
+She stands at the top of the stairwell, barefoot, dress torn, her blue ribbon hanging by a thread.
+ For a long heartbeat, neither moves.
+Then she runs, and he catches her, and the world narrows to the sound of rain and breath and the thud of her heartbeat against his chest.
+If Buro followed, he barks once — sharp, joyous — and curls near the door.
+ If not, the house remains quiet but for the patter of rain — and her laughter fills it anew.
+Arunesh kneels, holding her close.
+ “You’re safe now, shona,” he whispers.
+ “We’ll never leave each other again.”
+The rain begins anew, washing the blood from the street, mixing with the ash until it runs clear.
+FADE OUT.
+End of Act IV — The Return
+
+Summary of State Logic Integrated:
+Dog (Buro): affects stealth, warnings, companionship, final reunion tone.
+
+Locket: affects the river crossing dialogue and outcome.
+
+Morality: subtly alters tone and NPC responses (leader at Pilkhana Road, boatman’s decision).
+
+Health: affected by physical choices but doesn’t change the ending (since father & daughter always reunite).
+
+
+ASHES OF CALCUTTA — ACT V: THE ASHES REMEMBER 
+
+Setting:
+ Rajendra Deb Lane and the alleys near Thanthania Kali Bari, Calcutta — early morning, August 1946.
+ The monsoon has quieted, but the city still smoulders.
+
+Scene 1 — Morning After
+The night has peeled back to a bruised dawn.
+ Thin light seeps through the holes in the roof of what used to be the Chatterjee home.
+ The air is heavy with the smell of wet ash, ghee, and burnt paper.
+Arunesh wakes stiffly. Mitali sleeps beside him, wrapped in a shawl that smells faintly of smoke.
+ The stray dog — the one he saved near the railway embankment — lies by the door, head on its paws. When Arunesh stirs, it opens one eye, as if to ask whether the world outside is still on fire.
+On the floor lie the remnants of their journey:
+If he helped the constable (Act II): the police whistle, dented, glints faintly in the light.
+
+If he found food in Act III: a tin of biscuits, now half-empty.
+
+If he took the knife in Act I: the rusty knife, blade dulled by time and fear.
+
+If he kept the silver locket: its clasp is broken, but the image inside — a child he never knew — remains intact.
+
+Each object breathes the story of a choice.
+ Each weighs differently in his pocket, as if memory itself had a mass.
+
+Scene 2 — The Search
+Mitali tugs at her father’s sleeve.
+ “Baba, we have no food left.”
+He nods slowly, staring at the faint smoke still curling over Beadon Street.
+ “I know, shona. We’ll find something. Not far — maybe near the temple.”
+They step out into Rajendra Deb Lane, once a street of schoolboys and sweet-shops.
+ Now it’s a corridor of ghosts.
+ The gutters run with rainwater streaked grey from ash.
+ The smell of kerosene still clings to the walls.
+They pass Thanthania Kali Bari; the great iron bell lies cracked on its side.
+ A priest, his dhoti blackened, sweeps debris without looking up.
+ When he sees the child, he whispers, “Ma Kali raksha koro,” and goes on sweeping.
+The dog pads ahead, nose low, tail flicking in uneasy circles.
+ It stops near a corner and whines.
+ A crate lies overturned — grains scattered, a few handfuls still clean enough to eat.
+If he has the tin of biscuits:
+ He breaks one and shares it with Mitali, saving the rest for later.
+ If not:
+ He pockets a few grains and murmurs, “It will have to do.”
+ The dog licks his hand, grateful for even that.
+
+Scene 3 — The Alley of Hunger
+They turn into a narrow lane behind the burnt shell of a spice shop.
+ The air here is thicker, the smoke trapped between the walls.
+ A shutter bangs faintly in the wind.
+Mitali kneels to pick up a small tin cup from the debris — she wants to catch rainwater.
+ The dog suddenly stiffens, growling low.
+A shape moves in the shadows.
+A boy steps out — no older than sixteen, barefoot, clothes torn to ribbons.
+ His eyes are red, wild, ringed with soot.
+ A blade glints in his hand — or maybe just a piece of sharpened metal.
+Boy (hoarse):
+ “Leave the food. I won’t ask twice.”
+Arunesh raises his palms.
+ “We have a child with us. Don’t do this.”
+The boy’s knuckles whiten.
+ “Then leave it and go.”
+The rain begins again — fine, needle-sharp.
+ The city holds its breath.
+
+Scene 4 — Confrontation
+Choice A: If Arunesh still carries the rusty knife, he can defend himself.
+ Choice B: If not, he can fight bare-handed or try to reason.
+ Choice C: If the dog is alive (from Act III), it can intervene.
+
+If Choice A: Use the Knife
+Arunesh draws the knife, its blade dull but steady in his trembling hand.
+ The boy lunges; metal scrapes against metal.
+ A flash of motion — the knife twists free from the boy’s grip and clatters to the stones.
+The boy stumbles back, breathing hard, his arm bleeding.
+Boy:
+ “Please… I just wanted to live. I thought you had food.”
+Mitali hides behind her father’s leg.
+ The dog stands beside them, hackles raised.
+Arunesh stares down at the weapon in his hand —
+ the same knife that once bought him freedom,
+ the same knife that now demands payment.
+
+If Choice B: No Knife
+The boy lunges. Arunesh ducks, grabbing his wrist.
+ They fall hard into the mud.
+ The world narrows to breath and struggle — rain and heartbeat.
+ He manages to twist the boy’s arm until the makeshift blade drops.
+ Pain shoots up his shoulder; his palm is cut.
+The dog barks fiercely, snapping at the boy’s legs until he scrambles away, collapsing against the wall.
+ They freeze — two men on opposite sides of hunger.
+
+If Choice C: The Dog Acts
+Before either moves, the dog leaps forward, knocking the boy off balance.
+ It doesn’t bite — only growls deep and low, holding him in place.
+ Rain darkens the dust on its coat, turning it almost silver.
+ Mitali whispers, “Good boy…”
+Arunesh steps between them.
+ “Enough.”
+The dog backs away, watching with wary eyes.
+
+Scene 5 — Judgment
+The boy kneels in the mud, shivering.
+ His eyes dart between the man, the child, and the dog.
+Boy:
+ “Please. I have no one left. I haven’t eaten since yesterday. Don’t kill me.”
+Arunesh stands above him, breathing hard, blood and rain mixing on his hand.
+ Every choice, every face, every death since that first night presses down on him.
+He could strike.
+ He could walk away.
+ He could forgive.
+
+If he kills the boy
+He raises the knife — or his fist — and brings it down.
+ It’s quick. The boy doesn’t scream.
+ The body slumps against the wall, lifeless.
+Mitali gasps; the dog whimpers.
+ The alley fills with silence, thick and endless.
+Arunesh drops the knife.
+ His hands tremble.
+ The rain washes the blood away before it can stain.
+Arunesh (whispering):
+ “You burned my city, my home, my heart.
+ Now I have burned myself.”
+He looks up at the grey sky, blinking away tears.
+ The wind carries the faint echo of the temple bell.
+ He takes Mitali’s hand.
+“Come, shona. Let’s go home.”
+They walk through the smoke until the city swallows them — two shadows fading into the mist.
+
+If he spares the boy
+Arunesh exhales, his body shaking.
+ He drops the knife into the mud and steps back.
+Arunesh:
+ “Go. Take what you need. Don’t come back with blood in your hands.”
+The boy stares, stunned.
+ “Why… why would you let me go?”
+Arunesh glances toward the distant dome of Thanthania Kali Bari.
+ “Because if I don’t stop the fire, it will burn my daughter next.”
+The boy nods once, tears cutting clean lines through the soot on his face.
+ He snatches a handful of rice and runs into the rain, vanishing down the lane.
+Mitali slips her hand into her father’s.
+ “Baba… did you win?”
+He looks down at her, weary but calm.
+ “No, shona. But we didn’t lose ourselves. That’s enough.”
+The dog whines softly and falls into step beside them as they walk toward the temple.
+ The bell rings again — hoarse, cracked, alive.
+ It sounds almost like forgiveness.
+
+Scene 6 — Epilogue
+Evening settles over Thanthania Kali Bari.
+ Smoke from burnt ghee lamps curls upward into the bruised sky.
+ The river beyond Beadon Street gleams faintly, carrying away the ashes of the city.
+Arunesh stands with Mitali and the dog by the temple gate.
+ For the first time in days, the air smells of rain and incense, not death.
+ He touches the silver locket in his pocket — or, if he never found it, only the emptiness where it might have been —
+ and whispers, “Thakur Gopal, raksha koro.”
+Mitali leans against him.
+ “Baba, when will it stop raining?”
+He smiles faintly.
+ “When Calcutta forgives itself.”
+They watch the smoke drift east, over the water, over the city that survived itself.
