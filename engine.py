@@ -85,26 +85,48 @@ def notify(text, style="notification"):
 def present_choices(options):
     """Present options using questionary (arrow keys) and return chosen index (1-based)."""
     # options is a list of strings.
-    # questionary.select returns the string chosen.
-    choice = questionary.select(
-        "Make your choice:",
-        choices=options,
-        style=questionary.Style([
-            ('qmark', 'fg:#E91E63 bold'),       # token in front of the question
-            ('question', 'bold'),               # question text
-            ('answer', 'fg:#2196f3 bold'),      # submitted answer text
-            ('pointer', 'fg:#673ab7 bold'),     # pointer used in select and checkbox
-            ('highlighted', 'fg:#673ab7 bold'), # pointed-at choice in select and checkbox
-            ('selected', 'fg:#cc5454'),         # selected choice in checkbox
-            ('separator', 'fg:#cc5454'),        # separator in select
-            ('instruction', ''),                # user instructions for select, rawselect, checkbox
-            ('text', ''),                       # plain text
-            ('disabled', 'fg:#858585 italic')   # disabled choices for select, rawselect, checkbox
-        ])
-    ).ask()
     
-    # Find index
-    return options.index(choice) + 1
+    try:
+        # Try using questionary (requires real console)
+        choice = questionary.select(
+            "Make your choice:",
+            choices=options,
+            style=questionary.Style([
+                ('qmark', 'fg:#E91E63 bold'),       # token in front of the question
+                ('question', 'bold'),               # question text
+                ('answer', 'fg:#2196f3 bold'),      # submitted answer text
+                ('pointer', 'fg:#673ab7 bold'),     # pointer used in select and checkbox
+                ('highlighted', 'fg:#673ab7 bold'), # pointed-at choice in select and checkbox
+                ('selected', 'fg:#cc5454'),         # selected choice in checkbox
+                ('separator', 'fg:#cc5454'),        # separator in select
+                ('instruction', ''),                # user instructions for select, rawselect, checkbox
+                ('text', ''),                       # plain text
+                ('disabled', 'fg:#858585 italic')   # disabled choices for select, rawselect, checkbox
+            ])
+        ).ask()
+        
+        if choice is None: # Handle cancellation/interruption
+             raise KeyboardInterrupt
+             
+        return options.index(choice) + 1
+        
+    except Exception:
+        # Fallback for non-interactive terminals (e.g. IDE output)
+        console.print("\n[bold yellow]Make your choice:[/bold yellow]")
+        for i, opt in enumerate(options, 1):
+            console.print(f"  {i}. {opt}")
+            
+        while True:
+            try:
+                console.print("\n[dim]Enter number > [/dim]", end="")
+                val = input().strip()
+                idx = int(val)
+                if 1 <= idx <= len(options):
+                    return idx
+                else:
+                    console.print("[red]Invalid number.[/red]")
+            except ValueError:
+                console.print("[red]Please enter a number.[/red]")
 
 def quick_time_event(prompt, timeout, success_action, fail_action):
     """
@@ -114,20 +136,33 @@ def quick_time_event(prompt, timeout, success_action, fail_action):
     console.print(f"\n[bold red]!!! {prompt} !!![/bold red]")
     console.print(f"[dim]Press any key within {timeout} seconds![/dim]")
     
-    start_time = time.time()
-    # Flush input buffer
-    while msvcrt.kbhit():
-        msvcrt.getch()
+    # Check if we are in a real console for msvcrt
+    try:
+        if not sys.stdout.isatty():
+            raise OSError("Not a TTY")
+            
+        start_time = time.time()
+        # Flush input buffer
+        while msvcrt.kbhit():
+            msvcrt.getch()
+            
+        while time.time() - start_time < timeout:
+            if msvcrt.kbhit():
+                msvcrt.getch() # Consume key
+                success_action()
+                return True
+            time.sleep(0.05)
         
-    while time.time() - start_time < timeout:
-        if msvcrt.kbhit():
-            msvcrt.getch() # Consume key
-            success_action()
-            return True
-        time.sleep(0.05)
-    
-    fail_action()
-    return False
+        fail_action()
+        return False
+        
+    except (OSError, ImportError, AttributeError):
+        # Fallback for non-interactive: Auto-success to not block progress
+        # or could be auto-fail depending on difficulty. Let's be nice.
+        time.sleep(1) # Simulate reaction time
+        console.print("[dim](Non-interactive mode: Auto-success)[/dim]")
+        success_action()
+        return True
 
 # ===== Game State =====
 def default_state():
